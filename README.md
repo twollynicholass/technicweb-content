@@ -1,4 +1,5 @@
 # Template Content
+> This is the standard content a new TW Template should follow.
 
 ## Menu Layout
 Key:
