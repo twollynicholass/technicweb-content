@@ -556,6 +556,8 @@ Carol's extensive experience in Accounting in a variety of sectors puts her in g
 
 ## Image Upload Locations
 
+**All images can be taken from:** `P:\TechnicWeb\Template Content Insertion\Template Content`
+
 ### Office Images
 > These are in Estateweb under assets\contentimages\officephotos
 > 
