@@ -65,7 +65,7 @@ Key:
 
 ### Braintree
 
-**Office Image:** `9.jpg`
+**Office Image:** `5.jpg`
 
 **Name:** `Braintree`
 
@@ -98,7 +98,7 @@ Key:
 
 ### 40a, Springwood Drive, Braintree, Essex, CM7 2YN
 
-**Office Image:** `10.jpg`
+**Office Image:** `6.jpg`
 
 **Name:** `40a, Springwood Drive, Braintree, Essex, CM7 2YN`
 
