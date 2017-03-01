@@ -553,3 +553,22 @@ Carol's extensive experience in Accounting in a variety of sectors puts her in g
     </tbody>
 </table>
 ```
+
+## Image Upload Locations
+
+### Office Images
+> These are in Estateweb under assets\contentimages\officephotos
+> 
+> The name of the image (5.jpg) corresponds to the Branch ID e.g. Branch Name (ID 7) = 7.jpg
+> 
+> Check the ID in TSM Data
+
+### Staff Profiles Images
+> These can be uploaded straight from your PC in the Staff Profiles app
+
+### Content Page Images
+> When creating a page, make sure it's a "Templated Content Page"
+> 
+> Once you select a style for the content page you can edit the content by either choosing an uploaded image or as text/HTML
+> 
+> Images should be uploaded to assets\contentimages
