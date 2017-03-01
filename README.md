@@ -65,7 +65,7 @@ Key:
 
 ### Braintree
 
-**Office Image:** `5.jpg`
+**Office Image:** `9.jpg`
 
 **Name:** `Braintree`
 
@@ -98,7 +98,7 @@ Key:
 
 ### 40a, Springwood Drive, Braintree, Essex, CM7 2YN
 
-**Office Image:** `6.jpg`
+**Office Image:** `10.jpg`
 
 **Name:** `40a, Springwood Drive, Braintree, Essex, CM7 2YN`
 
@@ -561,7 +561,7 @@ Carol's extensive experience in Accounting in a variety of sectors puts her in g
 ### Office Images
 > These are in Estateweb under assets\contentimages\officephotos
 > 
-> The name of the image (5.jpg) corresponds to the Branch ID e.g. Branch Name (ID 7) = 7.jpg
+> The name of the image (5.jpg) corresponds to the Branch ID e.g. Branch Name (ID 9) = Rename to 9.jpg
 > 
 > Check the ID in TSM Data
 
